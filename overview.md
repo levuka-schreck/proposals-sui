@@ -39,9 +39,9 @@ Agile/Scrum practices, Git/GitHub, testing frameworks (Jest, Mocha, Selenium), a
 
 Levuka Labs has deployed numerous commercial grade applications that utilize AI & Blockchain, below are some previous works.
 
-Mortgage Suite AI: https://aimortgagesuite.com/
-Our after care AI suite:  https://aftercareai.com.au/
-Our portco MVNO deployment AI:  https://bele.ai/
+- Mortgage Suite AI: https://aimortgagesuite.com/
+- Our after care AI suite:  https://aftercareai.com.au/
+- Our portco MVNO deployment AI:  https://bele.ai/
 
 ## SUI/Walrus team allocation
 For Sui-focused MVPs and platforms, we allocate a lean yet comprehensive team to maintain agility while covering all project facets.
