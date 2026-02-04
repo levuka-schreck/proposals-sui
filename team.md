@@ -7,9 +7,9 @@ More company info:  https://levukalabs.com
 
 ## Leadership Team
 
-Founder - Neil Sumaru (https://www.linkedin.com/in/neilsumaru/)
-CEO - Shaun Sumaru (https://www.linkedin.com/in/shaun-s-501b436b/)
-CTO - Bill Schreckenstein (https://www.linkedin.com/in/billschreckenstein)
+- Founder -> Neil Sumaru (https://www.linkedin.com/in/neilsumaru/)
+- CEO -> Shaun Sumaru (https://www.linkedin.com/in/shaun-s-501b436b/)
+- CTO -> Bill Schreckenstein (https://www.linkedin.com/in/billschreckenstein)
 
 ## Key Skills, Expertise, and Competency
 
