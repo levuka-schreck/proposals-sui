@@ -19,5 +19,5 @@ Drawing from our team’s proven track record in blockchain and full-stack engin
 
 ### Core Competencies Include:
 
-*** Blockchain and Smart Contract Development ***
+***Blockchain and Smart Contract Development***
 Proficiency in Solidity, Rust, Move language, and protocols such as ERC-20/721/1155, with experience in gas optimization, tokenomics, cross-chain bridges, and zk-Proofs for privacy-enhanced applications.
