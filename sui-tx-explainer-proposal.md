@@ -227,13 +227,6 @@ The interface is organized into clear sections:
 
 The Sui Transaction Explainer is a high-value, low-effort utility that will benefit developers, users, and the broader Sui ecosystem. By transforming opaque transaction data into plain-language summaries, we lower the barrier to understanding on-chain activity and support adoption.
 
-### Proposed Next Steps
-
-1. Brief kickoff call to confirm scope and prioritize stretch goals
-2. Gather 10-20 example transaction digests covering diverse transaction types for testing
-3. Initial package registry seeding with Sui Framework and top 10 protocols
-4. Development kickoff immediately following agreement
-
 ---
 
 <p align="center">
