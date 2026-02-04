@@ -80,15 +80,15 @@ This is a focused utility application with well-defined scope. A minimal team ca
 This is the most cost-effective project of the three proposals, with a tight scope and minimal infrastructure requirements. The primary investment is developer time for transaction parsing logic.
 
 | Component | Effort (Hours) | Phase Cost |
-|-----------|----------------|
-| Days 1-6: RPC & Parsing | 40-50 | |
-| Days 7-12: Text Gen & UI | 40-50 | |
-| Days 13-15: Testing & Docs | 20-25 | |
-| Sui Protocol Specialist | 15-20 | |
-| Product/UX Advisor | 8-12 | |
+|-----------|----------------|------------|
+| Days 1-6: RPC & Parsing | 40-50 | N/A |
+| Days 7-12: Text Gen & UI | 40-50 | N/A |
+| Days 13-15: Testing & Docs | 20-25 | N/A |
+| Sui Protocol Specialist | 15-20 | N/A |
+| Product/UX Advisor | 8-12 | N/A |
 | Infrastructure (6 months) | N/A | $100-$300 USD |
 | **MVP SUBTOTAL** | **123-157** | **$12K USD** |
-| Stretch: Visualization | 16-24 | |
+| Stretch: Visualization | 16-24 | N/A |
 | **TOTAL WITH STRETCH** | **139-181** | **$15K USD** |
 
 > **Notes:** MVP-only budget is $12K. Infrastructure costs are minimal due to serverless deployment with no database requirements.
