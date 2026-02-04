@@ -89,12 +89,12 @@ Cost estimates are based on market rates for specialized blockchain and full-sta
 | Component | Effort (Hours) | Cost |
 |-----------|----------------|------------|
 | Phase 0: Discovery & Design | 160-200 |    |
-| Phase 1: Service Discovery Portal | 1,200-1,600 | N/A |
-| Phase 2: Payments & Entitlements | 800-1,100 | N/A |
-| Phase 3: Usage Tracking | 600-900 | N/A |
-| Phase 4: Hardening & Handoff | 200-300 | N/A |
-| Infrastructure & Tooling | N/A | $15K-30K |
-| **ESTIMATED TOTAL** | N/A | **$179K** |
+| Phase 1: Service Discovery Portal | 1,200-1,600 |     |
+| Phase 2: Payments & Entitlements | 800-1,100 |     |
+| Phase 3: Usage Tracking | 600-900 |    |
+| Phase 4: Hardening & Handoff | 200-300 |    |
+| Infrastructure & Tooling |    | Included |
+| **ESTIMATED TOTAL** |    | **$201K** |
 
 > **Notes:** Smart contract security audit costs (external) not included; recommend budgeting additional $30K-50K. Cloud infrastructure costs are ongoing post-handoff.
 
