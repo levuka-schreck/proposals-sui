@@ -1,7 +1,5 @@
 # Levuka Venture Labs 
 
-## Overview
-
 Levuka Venture Lab is a global venture engineering partner. We shape category-defining companies through structured finance, strategic narratives, 
 full-stack tech development, corporate structuring and go-to-market execution.  
 
