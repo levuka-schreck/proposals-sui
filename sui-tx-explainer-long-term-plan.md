@@ -278,9 +278,9 @@ Quarterly assessment of sustainability indicators:
 | Quarter | Focus | Deliverables |
 |---------|-------|--------------|
 | **Q1** | Launch & Stabilize | MVP launch, initial package registry, bug fixes |
-| **Q2** | Expand Coverage | Stretch goals (visualization), 30+ packages in registry |
+| **Q2** | Expand Coverage | Stretch goals (visualization) |
 | **Q3** | Community Growth | Contribution guidelines, first external PRs merged |
-| **Q4** | Sustainability | Sponsorship program, funding renewal, Year 2 planning |
+| **Q4** | Sustainability | Funding renewal, Year 2 planning |
 
 ### Year 2: Maturation (Months 13-24)
 
