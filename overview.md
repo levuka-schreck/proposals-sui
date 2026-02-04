@@ -43,7 +43,7 @@ Mortgage Suite AI: https://aimortgagesuite.com/
 Our after care AI suite:  https://aftercareai.com.au/
 Our portco MVNO deployment AI:  https://bele.ai/
 
-## SUI team allocation
+## SUI/Walrus team allocation
 For Sui-focused MVPs and platforms, we allocate a lean yet comprehensive team to maintain agility while covering all project facets.
 
 ### Blockchain/Smart Contract (BC/SC) Team 
