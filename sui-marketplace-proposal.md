@@ -242,10 +242,10 @@ To ensure loose coupling as specified in the RFP, each component should communic
        ▼                                    ▼
 ┌─────────────────────────────────────────────────────┐
 │              Usage Enforcement Layer                │
-│  ┌─────────┐  ┌─────────┐  ┌─────────┐            │
-│  │  Envoy  │  │  NGINX  │  │ HAProxy │            │
-│  │ Adapter │  │ Adapter │  │ Adapter │            │
-│  └─────────┘  └─────────┘  └─────────┘            │
+│  ┌─────────┐  ┌─────────┐  ┌─────────┐              │
+│  │  Envoy  │  │  NGINX  │  │ HAProxy │              │
+│  │ Adapter │  │ Adapter │  │ Adapter │              │
+│  └─────────┘  └─────────┘  └─────────┘              │
 └─────────────────────────────────────────────────────┘
 ```
 
