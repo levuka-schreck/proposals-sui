@@ -88,7 +88,7 @@ This is the most cost-effective project of the three proposals, with a tight sco
 | Product/UX Advisor | 8-12 |    |
 | ***Infrastructure (6 months)*** |    | ***Included*** |
 | ***MVP SUBTOTAL*** | ***123-157*** | ***$12K USD*** |
-| Stretch: Visualization | 16-24 |    |
+| Stretch: Visualization | 48-72 |    |
 | ***TOTAL WITH STRETCH*** | ***139-181*** | ***$15K USD*** |
 
 > **Notes:** MVP-only budget is $12K. Infrastructure costs are minimal due to serverless deployment with no database requirements.
