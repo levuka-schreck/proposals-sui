@@ -227,8 +227,6 @@ The interface is organized into clear sections:
 
 The Sui Transaction Explainer is a high-value, low-effort utility that will benefit developers, users, and the broader Sui ecosystem. By transforming opaque transaction data into plain-language summaries, we lower the barrier to understanding on-chain activity and support adoption.
 
-This is the smallest and fastest project of the three proposals, delivering a polished MVP in **2-3 weeks** at a budget of **$15K-30K**. The focused scope minimizes risk while providing clear, demonstrable value.
-
 ### Proposed Next Steps
 
 1. Brief kickoff call to confirm scope and prioritize stretch goals
