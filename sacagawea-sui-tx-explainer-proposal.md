@@ -1,4 +1,4 @@
-# Sui Transaction Explainer
+# Sui Transaction Explainer (Project Sacagawea)
 
 **Human-Readable Transaction Summaries for the Sui Network**
 
