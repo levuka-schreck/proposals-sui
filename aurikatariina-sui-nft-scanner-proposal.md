@@ -1,4 +1,4 @@
-# Sui Wallet NFT Scanner & Cleaner
+# Sui Wallet NFT Scanner & Cleaner (Project Aurikatariina)
 
 **Review and Manage Unwanted or Suspicious Wallet Objects**
 
