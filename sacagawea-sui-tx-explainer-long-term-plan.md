@@ -1,4 +1,4 @@
-# Sui Transaction Explainer
+# Sui Transaction Explainer (Project Sacagawea)
 
 ## Long-Term Sustainability & Maintenance Plan
 
