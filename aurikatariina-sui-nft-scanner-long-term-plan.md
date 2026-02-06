@@ -1,4 +1,4 @@
-# Sui Wallet NFT Scanner & Cleaner
+# Sui Wallet NFT Scanner & Cleaner (Project Aurikatariina)
 
 ## Long-Term Sustainability & Maintenance Plan
 
